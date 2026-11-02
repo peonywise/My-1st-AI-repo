@@ -53,4 +53,4 @@ The tests mock the AWS CLI subprocess. They do not require AWS credentials and d
 
 ## Assignment write-up and evidence
 
-See [`ASSIGNMENT.md`](ASSIGNMENT.md) for the project description, module architecture, AI-assisted development process, tests, challenges, tool comparison, repository link, and instructions for capturing genuine system screenshots. Screenshots are not fabricated or included; capture them on the machine where the app is run.
+See [`ASSIGNMENT.md`](ASSIGNMENT.md) for the project description, module architecture, AI-assisted development process, tests, challenges, tool comparison, repository link, and genuine system screenshots.
