@@ -1,0 +1,14 @@
+2026-11-02: Create a repository-local log at logs/log.txt and record future repository-related user requests in it.
+2026-11-02: Please implement the project plan in PROJECT-PLAN.md.
+2026-11-02: Please add tests for the AWS Shortcut Console.
+2026-11-02: Fix S3 object listing so a bucket name without the s3:// prefix is accepted.
+2026-11-02: Add options to sort S3 objects by name or date.
+2026-11-02: Document that AWS CLI authentication is required and check authentication when the app starts.
+2026-11-02: Review all recently added functionalities and add tests where coverage is missing.
+2026-11-02: Create a custom skill for working with the AWS CLI.
+2026-11-02: Create a custom skill for writing Python CLI apps like this one.
+2026-11-02: Review the logs and session history and update the assignment with the process stages we went through.
+2026-11-02: Create a custom skill for exporting Markdown to Word.
+2026-11-02: Update the assignment one last time to include the created skills.
+2026-11-02: Use the md-to-docx skill to export ASSIGNMENT.md to a Word file named exam-softuni.
+2026-11-02: Change the Word document fonts to 11 pt for body text and 16 pt for headings.
